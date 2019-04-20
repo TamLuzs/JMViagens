@@ -1,0 +1,99 @@
+*{
+	margin: 0 auto;
+}
+
+nav{
+	width: 900px;
+	align-items: center;
+	text-align: center;	
+}
+
+#menu{
+	width: 900px;
+	align-items: center;
+	text-align: center;
+	padding-bottom: 10px;	
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+#menu a:hover{
+	padding: 5px;
+	border-radius: 20%;
+	border-color: orange;
+	border-style: solid;	
+}
+
+#menu a:active{
+	padding: 5px;
+	border-radius: 20%;
+	border-color: #00868B;
+	border-style: solid;
+}
+
+.banner{
+	width: 900px;
+	align-items: center;
+	text-align: center;	
+	padding-bottom: 15px;	
+}
+
+.conteudo{
+	width: 900px;
+	align-items: center;
+	text-align: center;		
+}
+
+.contato{
+	width: 900px;
+	text-align: justify;		
+}
+
+input[type="text"] {
+    width: 300px;
+}
+
+input[type="email"] {
+    width: 300px;
+}
+
+textarea{
+	height: 100px;
+	width: 300px ;
+}
+
+h2{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	color: orange;
+	font-family: 'Arial Black';
+}
+
+.botao{
+	margin-left: 20px;
+	padding: 10px;
+	border-radius: 25%;
+	background-color: #00868B;
+	color: orange;
+	font-weight: bold;
+}
+
+.botao:active{
+	margin-left: 20px;
+	background-color: orange;
+	color: #00868B;
+	padding: 10px;
+	border-radius: 20%;
+	font-weight: bold;
+}
+
+footer{
+	padding: 30px;
+	width: 900px;
+	align-items: center;
+	text-align: center;	
+}
