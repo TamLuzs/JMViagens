@@ -12,4 +12,4 @@ Desvolvimento de front-end com HTML e CSS básico.
 - 0.2 = Com alterações pessoais 
 
 
-Este site foi desenvolvido com o auxílio do https://www.udemy.com/curso-completo-do-desenvolvedor-web/
+Este projeto foi desenvolvido com o auxílio do https://www.udemy.com/curso-completo-do-desenvolvedor-web/
