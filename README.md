@@ -5,7 +5,7 @@
 ### Objetivo:
 Apresentar o conteúdo de modo prático na criação de site estáticos com HTML e CSS.
 
-#### Informações Adicionais:
+### Informações Adicionais:
 **Páginas/Indices**
 - Home;
 - Quem Somos;
