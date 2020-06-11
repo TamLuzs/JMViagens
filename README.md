@@ -1,15 +1,21 @@
-# Site JM Viagens
-Desenvolvimento de front-end com HTML e CSS básico.
+# Site de Apresentação - JM Viagens
+![images](https://user-images.githubusercontent.com/48417347/84448636-990ebe80-ac21-11ea-8961-94d8373b7ad4.jpg)
+------------
 
-# Menu / Navegação:
-- Home 
-- Quem Somos ? 
-- Contato 
+### Objetivo:
+Apresentar o conteúdo de modo prático na criação de site estáticos com HTML e CSS.
 
+#### Informações Adicionais:
+**Páginas/Indices**
+- Home;
+- Quem Somos;
+- Contato.
 
-# Versão: 
-- v1 = Desenvolvido no curso
-- v2 = Com alterações pessoais
+**Versões**
+- v1: Desenvolvido no curso ( https://www.udemy.com/curso-completo-do-desenvolvedor-web/) sem os conceitos de boas práticas, isto é, a estilização foi realizada diretamente ao código no index.html.
+- v2: Foi feito algumas alterações como estilização separada do HTML e com alguns pseudoclasse.
 
-
-Este projeto foi criado com o auxílio do https://www.udemy.com/curso-completo-do-desenvolvedor-web/
+### Ferramentas/Codificação Utilizadas:
+- Sublime Text;
+- HTML5;
+- CSS3.
