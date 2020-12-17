@@ -4,7 +4,7 @@
 </p>
 
 ## Introdução/Objetivo
-Apresentar o conteúdo de modo prático na criação de site estáticos com HTML e CSS.
+Esse repositório é referente ao projeto JM Viagens que tem como objetivo apresentar organização, abordado no curso completo de desenvolvimento web da <a href="https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/"> Udemy</a>.
 
 ## 📋 Informação do Projeto
 O projeto reúne as seguintes seções:
